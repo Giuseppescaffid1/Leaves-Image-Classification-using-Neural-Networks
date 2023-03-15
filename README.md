@@ -11,4 +11,4 @@ equally. The results of this study will provide insight into the effectiveness o
 training and hyperparameter tuning techniques as methods to improving the performan-
 ce of CNN models for image classification tasks
 
-The model implemented in this repositories concerns Binary Classification model using CNN while the next model will be implemente in antoher github repo. 
+The model implemented in this repositorie concerns Binary Classification model using CNN while the next model will be implemente in antoher github repo. 
