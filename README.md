@@ -1,6 +1,6 @@
 # Leaves-Image-Classification-using-Neural-Networks
 
-This paper aims to compare two versions of the same algorithm, Convolutional Neural
+This Project aims to compare two versions of the same algorithm, Convolutional Neural
 Network (CNN), that were built,trained and tuned in different ways. The first model
 was developed as a binary classifier, assigning either labels 0 if the leaf is healthy or 1 if
 the leaf is unhealthy.
@@ -10,3 +10,5 @@ macro-average score as this better accounts for imbalanced datasets by weighting
 equally. The results of this study will provide insight into the effectiveness of different
 training and hyperparameter tuning techniques as methods to improving the performan-
 ce of CNN models for image classification tasks
+
+The model implemented in this repositories concerns Binary Classification model using CNN while the next model will be implemente in antoher github repo. 
